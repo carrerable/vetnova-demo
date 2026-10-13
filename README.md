@@ -1,5 +1,15 @@
 # VetNova — multi-tenant clinic demo
 
+## The real product
+
+*Real product, demo tenant with fictional data.*
+
+![Dashboard with today's sales, agenda, alerts and revenue charts (light theme).](docs/screenshots/vetnova-dashboard.webp)
+
+![Appointments calendar with status, service and vet columns.](docs/screenshots/vetnova-agenda.webp)
+
+![Orders and sales list: consultations, counter sales and quotes with status and totals.](docs/screenshots/vetnova-orders.webp)
+
 > Public mini-demo with fictional data. The full product is private; access on request: carrerabernal@gmail.com
 
 ## Live demo
